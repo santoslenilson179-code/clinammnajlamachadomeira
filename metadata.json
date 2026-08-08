@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Odontológica Premium",
+  "description": "Landing page odontológica premium de alto padrão, focada em autoridade, sofisticação e agendamento de consultas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
